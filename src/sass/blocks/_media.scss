@@ -259,6 +259,15 @@
         margin-bottom: 20px;
       }
     }
+    .modal {
+      width: 300px;
+      min-height: 380px;
+      padding: 0;
+      &__close {
+         right: 0;
+         top: -24px;
+      }
+    }
   }
 
 
